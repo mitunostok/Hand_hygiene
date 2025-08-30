@@ -1,0 +1,5 @@
+{
+  "name": "Hand Hygiene Compliance Auditor",
+  "description": "A web application for auditing hand hygiene compliance based on WHO guidelines. It allows auditors to record observations, view statistical dashboards, and export compliance data.",
+  "requestFramePermissions": []
+}
